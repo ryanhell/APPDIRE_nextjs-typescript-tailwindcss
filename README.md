@@ -12,7 +12,7 @@
 This starter simple project powered by bellow tools out of the box!
 
 - ⚡️ Next.js 13
-- 🆕 app directory
+- 🆕 app directory and great folder structure.
 - ⚛️ React 18
 - ☑️ TypeScript
 - 🪡 Tailwind CSS 3 — Configured with the official Tailwind Plugins
