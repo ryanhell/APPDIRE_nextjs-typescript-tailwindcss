@@ -15,9 +15,9 @@ This starter simple project powered by bellow tools out of the box!
 - 🆕 app directory
 - ⚛️ React 18
 - ☑️ TypeScript
-- 🪡 Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color
+- 🪡 Tailwind CSS 3 — Configured with the official Tailwind Plugins
 - 📈 Absolute Import and Path Alias — Import components using `@/` prefix
-- 📏 ESLint — Find and fix problems in your code, also will **auto sort** your imports
+- 📏 ESLint — Find and fix problems in your code.
 - 💖 Prettier — Format your code consistently
 - 🐶 Husky & Lint Staged — Run scripts on your staged files before they are committed
 
