@@ -37,16 +37,20 @@ This starter simple project powered by bellow tools out of the box!
 
 
 ```bash
-yarn i
+npm install
+ or
+yarn
+ or
+pnpm install
 ```
 ### 3. run the dev server
 First, run the development server:
 
 ```bash
 npm run dev
-# or
+ or
 yarn dev
-# or
+ or
 pnpm dev
 ```
 Note : This starter project is under work. I will gradually add new features and development tools to it. 
