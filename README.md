@@ -1,7 +1,7 @@
 # Next.js + app-directory + Tailwind CSS + TypeScript Starter and Boilerplate
 
 <div align="center">
-  <h2>🥤 ts-nextjs-appDirectory-tailwind-starter ☕</h2>
+  <h2>🥤nextjs-typescript-tailwindcss☕</h2>
   <p>Nextjs +app-directory+.Typescript+tailwindCSS and many other development tools packed in one simple starter project. </p>
   <p>Made by <a href="https://www.linkedin.com/in/baqirnekfar123/">Baqir Nekfar</a></p>
 
@@ -35,10 +35,6 @@ This starter simple project powered by bellow tools out of the box!
  you can install its dependencies with any tools which you use, but inside the project I used yarn for pre-commit commands.
    so better to use yarn.
 
-```bash
-yarn install
-```
-or:
 
 ```bash
 yarn i
