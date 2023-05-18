@@ -41,7 +41,7 @@ job nextjs-typescript-tailwindcss {
           name = "alive"
           type = "tcp"
           interval = "10s"
-          timeout = "2s"
+          timeout = "200s"
         }
       }
     }
