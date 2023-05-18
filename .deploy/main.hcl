@@ -40,7 +40,7 @@ job nextjs-typescript-tailwindcss {
         check {
           name = "alive"
           type = "tcp"
-          interval = "100s"
+          interval = "10s"
           timeout = "2s"
         }
       }
